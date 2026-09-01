@@ -50,7 +50,7 @@ export const teamMembers = [
   },
   {
     name: 'Ishika Bhatnagar',
-    role: 'Core Member',
+    role: 'Core MemberVolunt',
     image: Ishika,
     company: 'Lucknow University',
     status: 'Student',
@@ -71,6 +71,7 @@ export const teamMembers = [
     social: {
       github: 'SURYANSH-RAI',
       linkedin: 'suryansh-rai',
+      email: 'suryanshrai1042003@gmail.com',
     }
   },
   {
@@ -88,7 +89,7 @@ export const teamMembers = [
     name: 'Akshay Kimothi',
     role: 'Volunteer',
     image: Akshay,
-    company: 'GDG Lucknow',
+    company: 'Roundglass Living',
     status: 'Professional',
     about: 'Active community volunteer supporting GDG Lucknow events and developer outreach.',
     social: {
@@ -122,7 +123,7 @@ export const teamMembers = [
     name: 'Ishita Singh',
     role: 'Content Lead',
     image: Ishita,
-    company: 'GDG Lucknow',
+    company: 'GDG Basic Funde Clear',
     status: 'Professional',
     about: 'Content Lead at GDG Lucknow, driving community storytelling and event communications.',
     social: {
